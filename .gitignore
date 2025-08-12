@@ -26,3 +26,5 @@ Thumbs.db
 *.env
 *.key
 *.secret
+meu_banco_vetorial/index.faiss
+meu_banco_vetorial/index.pkl
